@@ -137,6 +137,32 @@ Existem vários editores, alguns com focos mais específicos, que serão citados
         Assinatura PRO ou Versão da Comunidade gratuita
       </td>
     </tr>
+    <tr>
+      <td>
+        <img src="Images/sublime_icon.png" width=120" height="80"/>  
+      </td>
+      <td>
+        Sublime
+      </td>
+      <td>
+        <a href="https://www.sublimetext.com/">
+          Download
+        </a>
+      </td>
+      <td>
+        Desenvolvimento web
+      </td>
+      <td>
+        <img src="Images/fullfiled-star.png" width="20"/>
+        <img src="Images/fullfiled-star.png" width="20"/>
+        <img src="Images/empty-star.png" width="20"/>
+        <img src="Images/empty-star.png" width="20"/>
+        <img src="Images/empty-star.png" width="20"/>
+      </td>
+      <td>
+        Gratuito ou pago
+      </td>
+    </tr>
      <tr>
       <td>
         <img src="Images/vscode.jpg" width=120" height="80"/>  
